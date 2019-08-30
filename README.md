@@ -1,4 +1,4 @@
-# Programming-Techniques
+# Programming Techniques in JAVA
 Spring, 2014
 ### Lab 1: Introduction
 1.1 Reverse and Summation
